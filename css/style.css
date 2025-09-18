@@ -18,11 +18,13 @@
     height: 50px;
     width: 300px;
     background: tomato;
+    margin-top: 10px;
 }
 .two{
      height: 50px;
     width: 150px;
     background: rgb(216, 98, 114);
+    margin-top: 10px;
 }
 .a{
     /* height: 100px; */
